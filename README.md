@@ -28,7 +28,9 @@
 
 
 
+# Link to the deployed code:
 
+https://georgina5-2.github.io/my-versatility_portfolio/
 
 
 

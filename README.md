@@ -10,7 +10,23 @@
   * my portfolio which contains links to some of my recent projects
   * my current resume
   * a 'contact me' page
+
+
+## Screeenshots:
+
+
  
+<img width="1916" alt="Portfolio_1" src="https://github.com/Georgina5-2/my-versatility_portfolio/assets/122113060/200aa4af-70af-4d97-98e6-e583a8f1a4c9">
+
+
+
+<img width="1919" alt="Portfolio_2" src="https://github.com/Georgina5-2/my-versatility_portfolio/assets/122113060/a7f2f3c6-d532-4af7-89b2-9cc697d2ef39">
+
+
+
+<img width="1920" alt="Portfolio_3" src="https://github.com/Georgina5-2/my-versatility_portfolio/assets/122113060/60f2a386-1761-4916-b011-a907c48b0508">
+
+
 
 
 

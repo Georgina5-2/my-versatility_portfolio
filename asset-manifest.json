@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-versatility_portfolio/static/css/main.27370f89.css",
+    "main.js": "/my-versatility_portfolio/static/js/main.a88fe12b.js",
+    "static/media/Soccer_Betting.png": "/my-versatility_portfolio/static/media/Soccer_Betting.8068c0d514efa9194616.png",
+    "static/media/Social_Media_API.png": "/my-versatility_portfolio/static/media/Social_Media_API.a9855d538eb63bf52ab4.png",
+    "static/media/Profile.jpg": "/my-versatility_portfolio/static/media/Profile.824c6bfdce44f2e2dc71.jpg",
+    "static/media/Event_Scheduler.png": "/my-versatility_portfolio/static/media/Event_Scheduler.a55a5c00ec5bc41e0c7d.png",
+    "static/media/Background-Header.png": "/my-versatility_portfolio/static/media/Background-Header.f344fc18623e88077b62.png",
+    "static/media/Weather.png": "/my-versatility_portfolio/static/media/Weather.bb5e590d6c89b5107fe5.png",
+    "static/media/Linkedin_Mark.png": "/my-versatility_portfolio/static/media/Linkedin_Mark.94ef79e0dc2b3563abe7.png",
+    "index.html": "/my-versatility_portfolio/index.html",
+    "main.27370f89.css.map": "/my-versatility_portfolio/static/css/main.27370f89.css.map",
+    "main.a88fe12b.js.map": "/my-versatility_portfolio/static/js/main.a88fe12b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27370f89.css",
+    "static/js/main.a88fe12b.js"
+  ]
+}

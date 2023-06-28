@@ -1,3 +1,23 @@
+# My_versatility_portfolio
+
+## The new version of my recent portfolio
+
+## Description
+
+* This portfolio is built with React and Node.js
+* It contains details about
+  * me
+  * my portfolio which contains links to some of my recent projects
+  * my current resume
+  * a 'contact me' page
+ 
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
